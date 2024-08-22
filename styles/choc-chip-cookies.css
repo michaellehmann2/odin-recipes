@@ -1,0 +1,17 @@
+body {
+    background-color: #3F0d12;
+    color: #D5Bf86;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+h1, h3 {
+    font-weight: 500;
+}
+
+p, li {
+    font-weight: 100;
+}
